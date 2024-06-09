@@ -1,0 +1,15 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile CurrentProfile="(Default)" GeneratedClassNamespace="Valorant_Custom_Lobby.Properties" GeneratedClassName="Settings" xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="VideoPath" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Enter Wallpaper Path...</Value>
+    </Setting>
+    <Setting Name="ValoGamePath" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Enter Valorant Game Folder...</Value>
+    </Setting>
+    <Setting Name="ValoPath" Type="System.String" Scope="User">
+      <Value Profile="(Default)"></Value>
+    </Setting>
+  </Settings>
+</SettingsFile>
